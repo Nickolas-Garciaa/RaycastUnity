@@ -6,6 +6,9 @@
 Nossa cena se passsa num mundo com personagens de dragon ball e o objetivo e pegar<br>
 o maximo de esferas do dragão
 
+![image](https://github.com/Nickolas-Garciaa/RaycastUnity/assets/128262640/f8b0c7fa-9801-4aa6-8d6c-6ddfebd688a2)
+
+
 <h1>Como jogar:</h1>
 Basta clicar nas esferas com o mouse, ao clicar em certas esferas, aparece mais em lugares aleatorios
 
@@ -16,7 +19,7 @@ Esse script é ultilizado para ao clicar na esfera, sai o som do começo da aber
 ![Captura de tela 2024-03-29 121755](https://github.com/Nickolas-Garciaa/RaycastUnity/assets/128262640/a7f20266-ce8a-4782-a5ec-a2de1e27be88)
 
 
-<H2>aleatoriamente</H2>
+<H2>aleatorio</H2>
 Esse script é ultilizado para ao clicar na esfera, ela gere outras aleatoriamente pela cena
 
 ![telaa](https://github.com/Nickolas-Garciaa/RaycastUnity/assets/128262640/3e3e6b15-d06c-4f3e-b4e3-3f383cce70f9)
